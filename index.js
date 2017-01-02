@@ -39,6 +39,7 @@ module.exports = {
     'space-infix-ops': 1,
     /* Variable declaration */
     'one-var': [1, { 'uninitialized': 'never', 'initialized': 'never' }],
+    'no-use-before-define': 2,
     /* Minuta */
     'comma-style': [2, 'last'],
     'quotes': [1, 'single']

@@ -26,7 +26,7 @@ module.exports = {
     'semi': 2,
     'no-extra-semi': 2,
     /* Padding & additional whitespace (perferred but optional) */
-    'brace-style': [2, '1tbs', { 'allowSingleLine': true }],
+    'brace-style': ["error", "1tbs", { "allowSingleLine": true }],
     'semi-spacing': 1,
     'key-spacing': 1,
     'block-spacing': 1,
